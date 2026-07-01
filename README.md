@@ -33,4 +33,4 @@ Configuration de Nodemon pour automatiser le redémarrage.
 
 Ajout d’un .editorconfig pour garder un style de code cohérent.
 
-Création d’une branche dev pour tester avant de merger dans main.
+Création d’une branche dev pour tester avant de merger dans main...
