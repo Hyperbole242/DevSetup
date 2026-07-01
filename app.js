@@ -1,7 +1,7 @@
 const http = require("http");
 
 const server = http.createServer((req, res) => {
-  res.end("Bienvenue dans DevSetup 🚀");
+  res.end("Bienvenue dans DevSetup 🚀 !!");
 });
 
 server.listen(3000, () => {
