@@ -13,4 +13,4 @@ Aujourd’hui, j’ai installé et configuré mes outils de base :
 - Comprendre la logique des commits au début
 - Configurer correctement Git
 
-👉 Sentiment du jour : Excité de commencer, même si ça demande de la concentration !
+👉 Sentiment du jour : Excité de commencer, même si ça demande de la concentration !!
