@@ -1,0 +1,10 @@
+{
+  "name": "devsetup",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
